@@ -1,2 +1,1 @@
-# 3DSSD
-Xiaomi Bugbounty POC by @nvk0x
+# Xiaomi Bugbounty POC by @nvk0x
